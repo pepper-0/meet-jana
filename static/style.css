@@ -1,8 +1,8 @@
 /* CUSTOM FONT */
 @font-face {
   font-family: 'TKindred';
-  src: url('./assets/custom/TANKINDRED-Display.otf') format('opentype'),
-       url('./assets/custom/TANKINDRED-Display.ttf') format('truetype');
+  src: url('../assets/custom/TANKINDRED-Display.otf') format('opentype'),
+       url('../assets/custom/TANKINDRED-Display.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -166,7 +166,7 @@ button:hover {
   top: 0;
   left: 0;
   z-index: 0;
-  background-image: url("./assets/castle.jpg");
+  background-image: url("../assets/castle.jpg");
   background-size: cover;
   background-position: center;
   width: 100%;
